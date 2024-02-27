@@ -12,8 +12,8 @@ const Home=()=>{
     <div className="carousel-item active">
       <img style={{height:"600px"}} src={process.env.PUBLIC_URL+'../images/slider-image-1-1920x600.jpg'} className="d-block w-100" alt="Slides" />
       <div className="carousel-caption d-none d-md-block">
-        <h5>Find your car today!</h5>
-        <h4>Book the best car for you</h4>
+        <h5>Find your Bike today!</h5>
+        <h4>Book the best Bike for you</h4>
       </div>
     </div>
     <div className="carousel-item">
